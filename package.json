@@ -6,10 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@code.aliyun.com:chenjie_thundersdata/cli-template.git"
-  },
   "author": "{{author}}",
   "license": "ISC"
 }
